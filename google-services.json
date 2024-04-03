@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967666618007",
+    "project_id": "pushtest-f4c18",
+    "storage_bucket": "pushtest-f4c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967666618007:android:0d7ce78369955ef025a3d2",
+        "android_client_info": {
+          "package_name": "com.tunde090.push_van"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxE3KZaxDURQv2L8qZ8p1s2Lkh-u76ts0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

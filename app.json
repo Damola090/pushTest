@@ -18,13 +18,20 @@
       "supportsTablet": true
     },
     "android": {
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.tunde090.push_van"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6d5e48d3-3202-4fbb-a4d7-bf67b28721fb"
+      }
     }
   }
 }
